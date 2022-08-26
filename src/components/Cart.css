@@ -1,0 +1,37 @@
+.body {
+  background-color: coral;
+}
+.btn__add {
+  background-color: chartreuse;
+  height: 30px;
+  width: 70px;
+  border-radius: 3px;
+  color: black;
+  margin: 10px;
+  font-weight: bold;
+  border-style: none;
+}
+.btn__remove {
+  background-color: rgb(211, 115, 5);
+  height: 25px;
+  width: 70px;
+  padding: 5px;
+  color: rgb(222, 228, 216);
+  border-style: none;
+
+  font-weight: bold;
+}
+.total {
+  color: red;
+}
+.section {
+  background-color: grey;
+}
+.heading {
+  color: purple;
+}
+.todo__item {
+  border: 2px solid green;
+  margin: 10px;
+  width: 200px;
+}
